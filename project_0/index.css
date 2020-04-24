@@ -1,0 +1,19 @@
+body {
+  font-family: 32px;
+  font-size: 18px;
+  background-color: grey;
+}
+
+.jumbotron {
+  width: fit-content;
+}
+
+#container {
+  width: 680px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+/*# sourceMappingURL=index.css.map */

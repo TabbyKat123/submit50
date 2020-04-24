@@ -1,0 +1,32 @@
+body {
+  font-family: 32px;
+  font-size: 18px;
+  background-color: grey !important;
+}
+
+.jumbotron {
+  width: fit-content;
+}
+
+.container {
+  width: 680px;
+  text-align: center;
+}
+
+.container2{
+  display: inline-block;
+}
+h1 {
+  font-size: 32px;
+}
+
+
+
+
+@media (max-width: 600px) {
+  body {
+    background-color: lightskyblue !important;
+  }
+}
+
+/*# sourceMappingURL=3.css.map */

@@ -1,0 +1,26 @@
+$myFont: Helvetica, sans-serif;
+$myColor: grey ;
+$myFontSize: 18px;
+$myWidth: 680px;
+$myFont: 32px;
+$myjumbo:  fit-content;
+
+
+body {
+    font-family: $myFont;
+    font-size: $myFontSize;
+    background-color: $myColor;
+  }
+  
+.jumbotron{
+  width: $myjumbo;
+
+}
+#container {
+    width: $myWidth;
+  }
+
+h1{
+  font-size: $myFont;
+}
+
